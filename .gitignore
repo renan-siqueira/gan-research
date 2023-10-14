@@ -1,0 +1,12 @@
+__pycache__
+.venv
+.vscode
+
+dataset
+data
+
+settings.py
+
+*.png
+*.jpg
+*.jpeg
